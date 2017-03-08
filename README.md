@@ -2,8 +2,8 @@
 # encipher-decipher
 
 Develop an algorithm to build the Vigenere Tableau.
- Implement and execute the algorithm twice:
- (a) fill the two-dimensional array by rows;
+ Implement and execute the algorithm twice: \n
+ (a) fill the two-dimensional array by rows; \n
  (b) fill the two-dimensional array by columns.
  
  Expand your algorithm to encipher and decipher text using the
